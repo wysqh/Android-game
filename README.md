@@ -10,3 +10,7 @@ source -> http://blog.csdn.net/yege2006/article/details/51377674
 source -> http://blog.csdn.net/fly_boss/article/details/60465981
 
 关于如何在IntelliJ下搭建Maven环境下的Hibernate-Spring-SpringMVC框架
+
+source -> http://blog.csdn.net/q4878802/article/details/52402529
+
+Android 摇杆技术的实现
