@@ -1,4 +1,4 @@
-package com.example.gtk.thebattleofplane.Utils;
+package com.example.gtk.thebattleofplane.utils;
 
 import android.content.Context;
 

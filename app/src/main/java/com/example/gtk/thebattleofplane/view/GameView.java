@@ -1,7 +1,6 @@
 package com.example.gtk.thebattleofplane.view;
 
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -17,11 +16,7 @@ import android.view.SurfaceView;
 import android.view.View;
 
 import com.example.gtk.thebattleofplane.R;
-import com.example.gtk.thebattleofplane.Utils.DensityUtil;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
+import com.example.gtk.thebattleofplane.utils.DensityUtil;
 
 /**
  * Created by gutia on 2017-06-02.
