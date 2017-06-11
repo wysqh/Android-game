@@ -5,7 +5,6 @@ package com.example.gtk.thebattleofplane.model;
  */
 
 public class Bullet {
-    public static final int BULLET_SPEED = 20;
     private int bullet_X;
     private int bullet_Y;
     private int bullet_X_Radius;
